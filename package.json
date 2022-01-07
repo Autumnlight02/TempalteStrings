@@ -1,0 +1,11 @@
+{
+  "name": "template_string_performance_test",
+  "version": "1.0.0",
+  "description": "A test to inspect template string performance",
+  "main": "testCode.js",
+  "scripts": {
+    "test": "node testCode.js"
+  },
+  "author": "Aykut Akgün (Autumnlight)",
+  "license": "ISC"
+}
